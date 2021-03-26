@@ -181,8 +181,7 @@ var STORY = {
         description : [
             "As you are about to leave the office, you are stopped by security.",
             "You have been busted and sent to jail. Your score rating plummets to 20. You have officially been blacklisted by the system.",
-            "You no longer have access to train services, your friends and neighbours start to shun you for fear of being associated with you and having their scores decreased.\
-            You have officially been blacklisted by the system.",  
+            "You no longer have access to train services, your friends and neighbours start to shun you for fear of being associated with you and having their scores decreased."  
         ],
 
         options : [
